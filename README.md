@@ -1,5 +1,5 @@
-# borealis-syntax theme
+# borealis-syntax Atom theme
 
-A short description of your theme.
+Atom theme with a dark background and pastel text. Designed with Clojure in mind, but you might like how it looks with other languages too.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Theme screenshot](https://raw.githubusercontent.com/Misophistful/borealis-syntax/master/images/screenshot.png)
